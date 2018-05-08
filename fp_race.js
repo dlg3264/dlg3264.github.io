@@ -8,7 +8,7 @@
 */
 
 /* variables to set the images for the race */
-var racer1='<img src="catbike.jpg" alt="cat on a bike">'
+var racer1='<img src="catBike.jpg" alt="cat on a bike">'
 var racer2='<img src="dogBike.jpg" alt="dog on a bike">'
 var racer3='<img src="rabbitBike.jpg" alt="rabbit on a bike">'
 var racer4='<img src="manBike.jpg" alt="man on a bike">'
