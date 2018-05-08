@@ -1,0 +1,143 @@
+﻿@charset "utf-8";
+
+/*
+
+    Final Project Web Page
+    Author: Donald L Garrison
+    Date:     04/15/2018
+   
+   Filename: fp_layout.css
+
+*/
+
+strong {
+   font-weight: bold;
+}
+
+header {
+   color: darkgreen;
+   background: lightblue;
+   text-align: center;
+   font-size: large;
+   font-weight: bolder;
+}
+
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75px;
+    height: 75px;
+}
+
+body {
+   background: teal;
+}
+
+img {
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+
+div#light1 img {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+div#light2 img {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+
+div#light3 img {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+
+div#light4 img {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+#race1 {
+    background-image: url("racetrack.png");
+    background-repeat: repeat-x;
+    background-position: 0% 65%;
+    margin-top: 40px;
+}
+
+#race2 {
+    background-image: url("racetrack.png");
+    background-repeat: repeat-x;
+    background-position: 0% 65%;
+    margin-top: 40px;
+}
+
+#myContainer1 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+#myContainer2 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+#myContainer3 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+#myContainer4 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+#top {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+#topMiddle {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+#bottomMiddle {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+#bottom {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
